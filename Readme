@@ -1,0 +1,13 @@
+# Ce projet ne vise pas un développement en anglais, par volonté de lisibilité une traduction des commentaires de code sera envisagé rapidement
+
+# Objectif : Stocker le code mais aussi quelques éléments simples (liens vers un espace moins concentré sur le code, liste des produit constituants et choix de methode) 
+
+# Constituant 
+# Jauge mécanique YZC-516C (2T) de GUANG CE
+# Arduino NANO
+# Screen ADAFRUIT
+# Module charge Batterie au lithium
+# Amplificateur de signal jauge 
+# PCB Maison
+
+# Sur Github sera stocker le développement du code en C
