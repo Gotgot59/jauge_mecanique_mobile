@@ -7,7 +7,7 @@
 # Arduino NANO
 # Screen ADAFRUIT
 # Module charge Batterie au lithium
-# Amplificateur de signal jauge 
+# Amplificateur de signal jauge (https://github.com/sparkfun/HX711-Load-Cell-Amplifier/tree/master/firmware)
 # PCB Maison
 # Deux boutons
 # Batterie lithium
